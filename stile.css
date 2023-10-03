@@ -1,14 +1,32 @@
 header{
-    background-color:rgb(27, 179, 171);
-    color:rgba(238, 223, 223, 0.671);
+    background-color:rgb(77, 60, 226);
+    color:rgba(0, 0, 0, 0.658);
     text-align:center;
-    padding: 27px para 24 píxeles de relleno.
-    
-
-
-
-
-
-
-
+    padding: 27px;   
+}
+nav ul{
+    list-style-type:none;
+}
+nav li{
+    display:inline;
+    margin-right:20px;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+main{
+    padding:21px;
+}
+section{
+    margin-bottom: 50px;
+}
+footer{
+    background-color:rgba(102, 6, 158, 0.63);
+    color:black;
+    text-align:center;
+    padding: 15px;
+}
+body{
+    background-color: rgb(123, 227, 241);
 }
